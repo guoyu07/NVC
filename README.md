@@ -1,4 +1,4 @@
-VCNotes
+Notes of Version Control
 =======
 
 VersionControl Notes
